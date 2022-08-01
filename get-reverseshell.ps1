@@ -1,8 +1,7 @@
 Function Get-ReverseShell() {
     <#
     .SYNOPSIS
-        A solution to create dynamically obfuscated reverse shells for PowerShell.    
-		
+        A solution to create dynamically obfuscated reverse shells for PowerShell.
         
     .DESCRIPTION
         Get-ReverseShell is a project that stems from the Invoke-PSObfuscation framework.
