@@ -6,7 +6,7 @@ Function Get-ReverseShell() {
         
     .DESCRIPTION
         Get-ReverseShell is a project that stems from the Invoke-PSObfuscation framework.
-	  With the way this framework is built, each component of the original payload goes through 
+	With the way this framework is built, each component of the original payload goes through 
         a randomly selected generator, resulting in a different yield with every execution of this script. 
         Due to the complexity of the obfuscation logic, the resulting payloads will be very difficult to 
         signature and will slip past heuristic engines that are not programmed to emulate the inherited logic.
